@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Stasik", "last": "lvandovskiy" },
+    "location": { "city": "Чернівці", "state": "Чернівецька", "country": "Україна" },
+    "email": "stasik@gmail.com",
+    "phone": "+380 (50) 100-00-01",
+    "picture": "/users/1.jpg",
+    "dob": { "date": "2000-03-15T00:00:00.000Z", "age": 26 },
+    "hobbies": ["футбол", "відеоігри", "програмування"],
+    "details": "Студент, любить доту."
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": { "title": "Ms", "first": "Софія", "last": "Мельник" },
+    "location": { "city": "Львів", "state": "Львівська", "country": "Україна" },
+    "email": "user2@example.com",
+    "phone": "+380 (67) 200-00-02",
+    "picture": "/users/2.jpg",
+    "dob": { "date": "2010-05-10T00:00:00.000Z", "age": 16 },
+    "hobbies": ["малювання", "читання", "музика"],
+    "details": "Учениця, цікавиться сучасним мистецтвом."
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Максим", "last": "Шевченко" },
+    "location": { "city": "Київ", "state": "Київська", "country": "Україна" },
+    "email": "user3@example.com",
+    "phone": "+380 (93) 300-00-03",
+    "picture": "/users/3.jpg",
+    "dob": { "date": "2004-08-20T00:00:00.000Z", "age": 22 },
+    "hobbies": ["фотографія", "баскетбол", "подорожі"],
+    "details": "Фотограф, активний користувач соцмереж."
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Юлія", "last": "Бондаренко" },
+    "location": { "city": "Одеса", "state": "Одеська", "country": "Україна" },
+    "email": "user4@example.com",
+    "phone": "+380 (50) 400-00-04",
+    "picture": "/users/4.jpg",
+    "dob": { "date": "1998-01-12T00:00:00.000Z", "age": 28 },
+    "hobbies": ["маркетинг", "дизайн", "йога"],
+    "details": "UI/UX дизайнерка, працює віддалено."
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Дмитро", "last": "Бойко" },
+    "location": { "city": "Харків", "state": "Харківська", "country": "Україна" },
+    "email": "user5@example.com",
+    "phone": "+380 (68) 500-00-05",
+    "picture": "/users/5.jpg",
+    "dob": { "date": "1991-11-03T00:00:00.000Z", "age": 35 },
+    "hobbies": ["інженерія", "автомобілі", "риболовля"],
+    "details": "Інженер-механік, має власний гараж."
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Ірина", "last": "Ткаченко" },
+    "location": { "city": "Чернівці", "state": "Чернівецька", "country": "Україна" },
+    "email": "user6@example.com",
+    "phone": "+380 (95) 600-00-06",
+    "picture": "/users/6.jpg",
+    "dob": { "date": "1985-07-25T00:00:00.000Z", "age": 41 },
+    "hobbies": ["кулінарія", "садівництво", "книги"],
+    "details": "Викладачка, любить затишні вечори."
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Олександр", "last": "Мороз" },
+    "location": { "city": "Дніпро", "state": "Дніпропетровська", "country": "Україна" },
+    "email": "user7@example.com",
+    "phone": "+380 (67) 700-00-07",
+    "picture": "/users/7.jpg",
+    "dob": { "date": "1978-04-18T00:00:00.000Z", "age": 48 },
+    "hobbies": ["біг", "історія", "шахи"],
+    "details": "Підприємець, захоплюється стратегічними іграми."
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Олена", "last": "Петрів" },
+    "location": { "city": "Тернопіль", "state": "Тернопільська", "country": "Україна" },
+    "email": "user8@example.com",
+    "phone": "+380 (50) 800-00-08",
+    "picture": "/users/8.jpg",
+    "dob": { "date": "1971-09-14T00:00:00.000Z", "age": 55 },
+    "hobbies": ["вишивання", "театр", "подорожі"],
+    "details": "Архітекторка на пенсії, любить місто."
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Василь", "last": "Гнатюк" },
+    "location": { "city": "Івано-Франківськ", "state": "Івано-Франківська", "country": "Україна" },
+    "email": "user9@example.com",
+    "phone": "+380 (98) 900-00-09",
+    "picture": "/users/9.jpg",
+    "dob": { "date": "1964-02-28T00:00:00.000Z", "age": 62 },
+    "hobbies": ["бджолярство", "карпати", "фольклор"],
+    "details": "Пенсіонер, має пасіку в селі."
+  },
+  {
+    "id": 10,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Денис", "last": "Кравченко" },
+    "location": { "city": "Вінниця", "state": "Вінницька", "country": "Україна" },
+    "email": "user10@example.com",
+    "phone": "+380 (63) 000-00-10",
+    "picture": "/users/10.jpg",
+    "dob": { "date": "2011-12-05T00:00:00.000Z", "age": 15 },
+    "hobbies": ["робототехніка", "скейтбординг", "кіберспорт"],
+    "details": "Школяр, збирає власного робота."
+  }
+]
